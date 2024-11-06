@@ -17,9 +17,4 @@ For example, by providing a discount or other financial incentives for customers
 Similarly, if clients were offered a financial incentive to pay using their credit cards, this could be a concerted effort with a selected financial partner to drive traffic towards us and reduce churn.
 ![Churn factor 2](https://github.com/user-attachments/assets/079e2956-5d00-49f3-9292-5062276ead34)
 
-Finally, considering the binary nature of churn (either it's a yes or no), we use a logistic regression model to predict future customer churn. The model's fit and accuracy statistics are provided below:
-Accuracy of the predictive model:               
-                	precision      	recall	f1-score   
-           0       	0.82      	0.90      	0.86      
-           1       	0.62      	0.45      	0.53       
-    Accuracy                           			0.78     
+Finally, considering the binary nature of churn (either it's a yes or no), we use a logistic regression model to predict future customer churn. 
