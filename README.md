@@ -19,10 +19,7 @@ Similarly, if clients were offered a financial incentive to pay using their cred
 
 Finally, considering the binary nature of churn (either it's a yes or no), we use a logistic regression model to predict future customer churn. The model's fit and accuracy statistics are provided below:
 Accuracy of the predictive model:               
-                precision    recall  f1-score   support
-           0       0.82      0.90      0.86      2076
-           1       0.62      0.45      0.53       737
-
-    accuracy                           0.78      2813
-   macro avg       0.72      0.68      0.69      2813
-weighted avg       0.77      0.78      0.77      2813
+                	precision      	recall	f1-score   
+           0       	0.82      	0.90      	0.86      
+           1       	0.62      	0.45      	0.53       
+    Accuracy                           			0.78     
